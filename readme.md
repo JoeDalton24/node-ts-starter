@@ -1,6 +1,6 @@
 # Description
 
-This is a cli tool that create all you need to start building you nodejs app with typescript.
+This is a cli tool that create all you need to start building your nodejs app with typescript.
 
 # Usage
 
